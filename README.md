@@ -1,5 +1,5 @@
-# WChat OpenClaw Gateway
-> WChat AI 接入网关
+# WeChat-OpenClaw-Gateway
+> WeChat AI 接入网关
 > 由 **wechatapi.net** 提供技术支持
 > 支持 OpenClaw / Agent / AI 接入 WChat 私聊与群聊
 
@@ -12,12 +12,12 @@
 
 # 项目介绍
 
-**WChat OpenClaw Gateway** 是一个将 **OpenClaw AI 能力接入 WChat 的网关程序**。
+**WeChat OpenClaw Gateway** 是一个将 **OpenClaw AI 能力接入 WeChat 的网关程序**。
 
 通过这个项目你可以快速实现：
 
-* WChat 私聊 AI
-* WChat 群机器人
+* WeChat 私聊 AI
+* WeChat 群机器人
 * 图片识别
 * 命令执行
 * OpenClaw Agent 接入
