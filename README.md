@@ -1,5 +1,4 @@
 # WChat OpenClaw Gateway
-
 > WChat AI 接入网关
 > 由 **wechatapi.net** 提供技术支持
 > 支持 OpenClaw / Agent / AI 接入 WChat 私聊与群聊
@@ -27,6 +26,7 @@
 整个项目 **单文件运行，仅一个 main.py**。
 
 ---
+<img width="628" height="576" alt="image" src="https://github.com/user-attachments/assets/4f61da82-0801-4106-953c-4c0b5b79e755" />
 
 # 技术支持
 
